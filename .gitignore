@@ -24,3 +24,6 @@ hs_err_pid*
 # intellij IDEA
 .idea/*
 ri.iml
+
+# jupyter notebook
+.ipynb_checkpoints/*
